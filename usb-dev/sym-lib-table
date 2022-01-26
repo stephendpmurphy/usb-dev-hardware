@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LPC55S16JEV98E")(type "KiCad")(uri "${KIPRJMOD}/LPC55S16JEV98E.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-dev")(type "KiCad")(uri "${KIPRJMOD}/usb-dev.kicad_sym")(options "")(descr ""))
+)
